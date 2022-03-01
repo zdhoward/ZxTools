@@ -5,8 +5,9 @@
 
 A simple distortion VST3
 
+---
 ## [ZxTools Library](https://github.com/zdhoward/ZxLibrary)
-Features:
+**Features:**
 - PresetManager
 - ZxLookAndFeel with a switchable theme system
 - SettingsPanel
